@@ -1,0 +1,34 @@
+
+class cliente:
+    
+    """essa classe representa um cliente """
+    
+    def __init__(self):
+        pass
+    
+    
+    
+    #qualidades
+    
+    nome = "jonas"
+    sobrenome = "brothers"
+    dinheiro = 0.0
+    
+    
+#estado do cliente 
+investido = True
+iscabelo = True
+issujo = False
+isdepe = True
+isesperando = True
+
+#o que o cliente pode fazer 
+
+def sentar ():
+    pass
+
+def levantar ():
+    pass
+
+def esperar ():
+    pass
